@@ -31,6 +31,14 @@ Install the requirements
 npm install
 ```
 
+Rename example.env to .env and modify the values
+```
+PORT=3000
+BOT_TOKEN=
+CHAT_ID=
+RECEIVER_WALLET=
+```
+
 Start the dev server
 ```
 npm run dev
