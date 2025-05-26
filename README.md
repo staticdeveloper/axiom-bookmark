@@ -36,7 +36,6 @@ npm install
 Start the dev server
 ```
 npm run dev
-
 ````
 
- In order to be update to date or get support, visit our website.
+In order to be update to date or get support, visit our website.
