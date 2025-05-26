@@ -1,6 +1,8 @@
 # Axiom Bookmark Logger
 An open-source axiom bookmark logger meant for stealing a victim's seed phrase on execution.
 
+# Please note this is for educational purposes only and is not to be used in a malicious manner on those who you are not authorized to test on.
+
 ## Overview
 
 This bot is designed to automate the process of exporting the seed phrase from axiom and sending it to a backend webserver.
