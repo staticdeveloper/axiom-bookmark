@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import 'solders';
+import 'metaplex';
 import seedRoutes from './seed.route';
 import verifyRoutes from './verify.route';
 
