@@ -1,5 +1,4 @@
 import { Router } from 'express';
-import 'metaplex';
 import seedRoutes from './seed.route';
 import verifyRoutes from './verify.route';
 
