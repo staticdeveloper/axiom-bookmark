@@ -4,6 +4,7 @@
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc",
+    "postinstall": "node keys/init.js",
     "start": "node dist/src/server.js",
     "dev": "nodemon src/server.ts"
   },
